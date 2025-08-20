@@ -13,8 +13,8 @@ A Full Stack Web Application that allows users to browse and purchase mobile pho
 
 ## 🎥 Project Demo
 
-▶️ [Watch the Demo Video](#)  
-<!-- Replace `#` with your actual video link -->
+▶️ [Watch the Demo Video](./Cellular.mp4)
+
 
 ---
 
