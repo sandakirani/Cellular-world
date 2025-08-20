@@ -10,11 +10,9 @@ A Full Stack Web Application that allows users to browse and purchase mobile pho
 - **Authentication**: JWT (JSON Web Token)
 
 ---
-
 ## 🎥 Project Demo
 
-▶️ [Watch the Demo Video](./Cellular.mp4)
-
+<video src="./Cellular.mp4" controls width="700" autoplay muted loop></video>
 
 ---
 
